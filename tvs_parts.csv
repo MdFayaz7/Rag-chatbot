@@ -1,0 +1,99 @@
+Vehicle,Part Name,Part Number,Category,Compatible Models
+TVS Jupiter 110,Brake Shoe,TVS-JUP-BS-001,Braking,Jupiter 110
+TVS Jupiter 110,Air Filter,TVS-JUP-AF-002,Engine,Jupiter 110
+TVS Jupiter 110,Oil Filter,TVS-JUP-OF-003,Engine,Jupiter 110
+TVS Jupiter 110,Drive Belt,TVS-JUP-BD-004,Transmission,Jupiter 110
+TVS Jupiter 110,Clutch Assembly,TVS-JUP-CA-005,Transmission,Jupiter 110
+TVS Jupiter 110,Spark Plug,TVS-JUP-SP-006,Engine,Jupiter 110
+TVS Jupiter 110,Headlight Bulb,TVS-JUP-HB-007,Electrical,"Jupiter 110, Ntorq 125"
+TVS Jupiter 110,Battery,TVS-JUP-BT-008,Electrical,Jupiter 110
+TVS Jupiter 110,Front Brake Cable,TVS-JUP-FBC-009,Braking,Jupiter 110
+TVS Jupiter 110,Rear Brake Cable,TVS-JUP-RBC-010,Braking,Jupiter 110
+
+TVS Ntorq 125,Brake Shoe,TVS-NTQ-BS-011,Braking,Ntorq 125
+TVS Ntorq 125,Air Filter,TVS-NTQ-AF-012,Engine,Ntorq 125
+TVS Ntorq 125,Oil Filter,TVS-NTQ-OF-013,Engine,Ntorq 125
+TVS Ntorq 125,Drive Belt,TVS-NTQ-BD-014,Transmission,Ntorq 125
+TVS Ntorq 125,Clutch Assembly,TVS-NTQ-CA-015,Transmission,Ntorq 125
+TVS Ntorq 125,Spark Plug,TVS-NTQ-SP-016,Engine,Ntorq 125
+TVS Ntorq 125,Headlight Bulb,TVS-NTQ-HB-017,Electrical,"Ntorq 125, Jupiter 110"
+TVS Ntorq 125,Battery,TVS-NTQ-BT-018,Electrical,Ntorq 125
+TVS Ntorq 125,Fuel Injector,TVS-NTQ-FI-019,Fuel System,Ntorq 125
+TVS Ntorq 125,Throttle Cable,TVS-NTQ-TC-020,Control,Ntorq 125
+
+TVS Apache RTR 160,Disc Brake Pad,TVS-APR160-DB-021,Braking,"RTR 160, RTR 160 4V"
+TVS Apache RTR 160,Brake Disc Rotor,TVS-APR160-BR-022,Braking,RTR 160
+TVS Apache RTR 160,Air Filter,TVS-APR160-AF-023,Engine,RTR 160
+TVS Apache RTR 160,Oil Filter,TVS-APR160-OF-024,Engine,RTR 160
+TVS Apache RTR 160,Spark Plug,TVS-APR160-SP-025,Engine,"RTR 160, RTR 180"
+TVS Apache RTR 160,Clutch Plate,TVS-APR160-CP-026,Engine,RTR 160
+TVS Apache RTR 160,Chain Sprocket Kit,TVS-APR160-CS-027,Transmission,RTR 160
+TVS Apache RTR 160,Throttle Cable,TVS-APR160-TC-028,Control,RTR 160
+TVS Apache RTR 160,Headlight Assembly,TVS-APR160-HA-029,Electrical,RTR 160
+TVS Apache RTR 160,Fuel Pump,TVS-APR160-FP-030,Fuel System,RTR 160
+
+TVS Apache RTR 180,Disc Brake Pad,TVS-APR180-DB-031,Braking,RTR 180
+TVS Apache RTR 180,Air Filter,TVS-APR180-AF-032,Engine,RTR 180
+TVS Apache RTR 180,Oil Filter,TVS-APR180-OF-033,Engine,RTR 180
+TVS Apache RTR 180,Spark Plug,TVS-APR180-SP-034,Engine,RTR 180
+TVS Apache RTR 180,Clutch Plate,TVS-APR180-CP-035,Engine,RTR 180
+TVS Apache RTR 180,Chain Kit,TVS-APR180-CK-036,Transmission,RTR 180
+TVS Apache RTR 180,Throttle Cable,TVS-APR180-TC-037,Control,RTR 180
+TVS Apache RTR 180,Headlight Assembly,TVS-APR180-HA-038,Electrical,RTR 180
+TVS Apache RTR 180,Fuel Pump,TVS-APR180-FP-039,Fuel System,RTR 180
+TVS Apache RTR 180,Battery,TVS-APR180-BT-040,Electrical,RTR 180
+
+TVS Apache RTR 200 4V,Disc Brake Pad,TVS-APR200-DB-041,Braking,RTR 200 4V
+TVS Apache RTR 200 4V,Air Filter,TVS-APR200-AF-042,Engine,RTR 200 4V
+TVS Apache RTR 200 4V,Oil Filter,TVS-APR200-OF-043,Engine,RTR 200 4V
+TVS Apache RTR 200 4V,Spark Plug,TVS-APR200-SP-044,Engine,RTR 200 4V
+TVS Apache RTR 200 4V,Clutch Plate,TVS-APR200-CP-045,Engine,RTR 200 4V
+TVS Apache RTR 200 4V,Chain Kit,TVS-APR200-CK-046,Transmission,RTR 200 4V
+TVS Apache RTR 200 4V,Throttle Cable,TVS-APR200-TC-047,Control,RTR 200 4V
+TVS Apache RTR 200 4V,Headlight Assembly,TVS-APR200-HA-048,Electrical,RTR 200 4V
+TVS Apache RTR 200 4V,Fuel Injector,TVS-APR200-FI-049,Fuel System,RTR 200 4V
+TVS Apache RTR 200 4V,Battery,TVS-APR200-BT-050,Electrical,RTR 200 4V
+
+TVS Radeon,Brake Shoe,TVS-RAD-BS-051,Braking,Radeon
+TVS Radeon,Air Filter,TVS-RAD-AF-052,Engine,Radeon
+TVS Radeon,Oil Filter,TVS-RAD-OF-053,Engine,Radeon
+TVS Radeon,Spark Plug,TVS-RAD-SP-054,Engine,Radeon
+TVS Radeon,Clutch Plate,TVS-RAD-CP-055,Engine,Radeon
+TVS Radeon,Chain Kit,TVS-RAD-CK-056,Transmission,Radeon
+TVS Radeon,Throttle Cable,TVS-RAD-TC-057,Control,Radeon
+TVS Radeon,Headlight Bulb,TVS-RAD-HB-058,Electrical,Radeon
+TVS Radeon,Battery,TVS-RAD-BT-059,Electrical,Radeon
+TVS Radeon,Fuel Tap,TVS-RAD-FT-060,Fuel System,Radeon
+
+TVS Star City Plus,Brake Shoe,TVS-SCP-BS-061,Braking,Star City Plus
+TVS Star City Plus,Air Filter,TVS-SCP-AF-062,Engine,Star City Plus
+TVS Star City Plus,Oil Filter,TVS-SCP-OF-063,Engine,Star City Plus
+TVS Star City Plus,Spark Plug,TVS-SCP-SP-064,Engine,Star City Plus
+TVS Star City Plus,Clutch Plate,TVS-SCP-CP-065,Engine,Star City Plus
+TVS Star City Plus,Chain Kit,TVS-SCP-CK-066,Transmission,Star City Plus
+TVS Star City Plus,Throttle Cable,TVS-SCP-TC-067,Control,Star City Plus
+TVS Star City Plus,Headlight Bulb,TVS-SCP-HB-068,Electrical,Star City Plus
+TVS Star City Plus,Battery,TVS-SCP-BT-069,Electrical,Star City Plus
+TVS Star City Plus,Fuel Tap,TVS-SCP-FT-070,Fuel System,Star City Plus
+
+TVS Sport,Brake Shoe,TVS-SPT-BS-071,Braking,Sport
+TVS Sport,Air Filter,TVS-SPT-AF-072,Engine,Sport
+TVS Sport,Oil Filter,TVS-SPT-OF-073,Engine,Sport
+TVS Sport,Spark Plug,TVS-SPT-SP-074,Engine,Sport
+TVS Sport,Clutch Plate,TVS-SPT-CP-075,Engine,Sport
+TVS Sport,Chain Kit,TVS-SPT-CK-076,Transmission,Sport
+TVS Sport,Throttle Cable,TVS-SPT-TC-077,Control,Sport
+TVS Sport,Headlight Bulb,TVS-SPT-HB-078,Electrical,Sport
+TVS Sport,Battery,TVS-SPT-BT-079,Electrical,Sport
+TVS Sport,Fuel Tap,TVS-SPT-FT-080,Fuel System,Sport
+
+TVS XL100,Brake Shoe,TVS-XL-BS-081,Braking,XL100
+TVS XL100,Air Filter,TVS-XL-AF-082,Engine,XL100
+TVS XL100,Oil Filter,TVS-XL-OF-083,Engine,XL100
+TVS XL100,Spark Plug,TVS-XL-SP-084,Engine,XL100
+TVS XL100,Clutch Plate,TVS-XL-CP-085,Engine,XL100
+TVS XL100,Chain Kit,TVS-XL-CK-086,Transmission,XL100
+TVS XL100,Throttle Cable,TVS-XL-TC-087,Control,XL100
+TVS XL100,Headlight Bulb,TVS-XL-HB-088,Electrical,XL100
+TVS XL100,Battery,TVS-XL-BT-089,Electrical,XL100
+TVS XL100,Fuel Tap,TVS-XL-FT-090,Fuel System,XL100
